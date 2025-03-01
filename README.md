@@ -16,10 +16,12 @@ The Employee Management System is a GUI-based application developed using Java a
 - Tools: Apache NetBeans, JDBC  
 
 ## Setup Instructions
-1. Clone this repository:  
-   git clone https://github.com/KrishaGoswami/Employee-Management-System.git
+1. Clone this repository: git clone https://github.com/KrishaGoswami/Employee-Management-System.git
 2. Import the project into Apache NetBeans.
 3. Set up the MySQL database using the provided SQL script.
 4. Run the application inside NetBeans.
 
 ## Screenshot
+![image](https://github.com/user-attachments/assets/6746c2c9-d05d-402e-97de-f91efc91993e)
+![image](https://github.com/user-attachments/assets/9616420b-2183-49ed-8728-075147332504)
+
